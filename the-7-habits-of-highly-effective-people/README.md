@@ -1,7 +1,7 @@
 
 # The 7 Habits of Highly Effective People
 
-_Provide advice applied by millions over decades_
+_Proven advice applied by millions over decades_
 
 This book is a timeless epic of leadership guidance that has proven its worth to millions over decades of applied practice.
 
