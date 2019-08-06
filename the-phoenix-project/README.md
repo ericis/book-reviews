@@ -1,6 +1,8 @@
 
 # The Phoenix Project
 
+&#9734; &#9734; &#9734; &#9734;
+
 _An inspiring and fundamental DevOps story_
 
 Readers should consider this book as a background reference to current DevOps literature.

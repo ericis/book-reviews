@@ -1,6 +1,8 @@
 
 # Scaling Leadership: Building Organizational Capability and Capacity to Create Outcomes that Matter Most
 
+&#9734; &#9734; &#9734; &#9734;
+
 _Fresh update of the author's original work Mastering Leadership_
 
 This book is certainly founded on their earlier work and tools outlined in "Mastering Leadership" and provides a fresh perspective on leadership today. Borrowing from their "reactive", "creative", and "integral" growth stages of leadership, Robert and Bill extend these models and highlight the common leadership theme that "leaders create leaders" in order to scale up a business. They also tie in the importance of servant leadership as an attribute of an "integral" leader.
