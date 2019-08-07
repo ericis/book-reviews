@@ -5,4 +5,4 @@
 * [The 7 Habits of Highly Effective People](./the-7-habits-of-highly-effective-people/README.adoc)
 * [The Phoenix Project](./the-phoenix-project/README.adoc)
 
-You will find these reviews on O'Reilly, Amazon, and goodreads.
+You will find these reviews on [Amazon](https://www.amazon.com/gp/profile/amzn1.account.AGOXFYJH6BOLIZ5AUIQDU3T5G3KA), [goodreads](https://www.goodreads.com/user/show/100965628-eric-swanson), and O'Reilly.
