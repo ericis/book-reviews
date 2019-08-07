@@ -1,7 +1,9 @@
+= Scaling Leadership: Building Organizational Capability and Capacity to Create Outcomes that Matter Most
+Robert J. Anderson, William A. Adams
+Jan 2019
 
-# Scaling Leadership: Building Organizational Capability and Capacity to Create Outcomes that Matter Most
-
-&#9734; &#9734; &#9734; &#9734;
+[abstract]
+&#9733; &#9733; &#9733; &#9733; &#9734;
 
 _Fresh update of the author's original work Mastering Leadership_
 
@@ -16,4 +18,4 @@ Empowering > Controlling
 
 Despite the book's shortcomings, the content still holds significant value when used alongside other leadership resources.
 
-![Example](./example.jpg)
+image::./example.jpg[Book example]

@@ -1,7 +1,9 @@
+= The Phoenix Project
+Gene Kim, Kevin Behr, George Spafford
+Feb 2018
 
-# The Phoenix Project
-
-&#9734; &#9734; &#9734; &#9734;
+[abstract]
+&#9733; &#9733; &#9733; &#9733; &#9734;
 
 _An inspiring and fundamental DevOps story_
 
@@ -23,4 +25,4 @@ The "Three Ways" to accomplish this are outlined as:
 
 3. **The Third Way:** always experiment to improve by taking risks, learn and to practice success and failure through repetition. "The necessary practices include creating a culture of innovation and risk taking (as opposed to fear or mindless order taking) and high trust (as opposed to low trust, command-and-control), allocating at least twenty percent of Development and IT Operations cycles towards nonfunctional requirements, and constant reinforcement that improvements are encouraged and celebrated."
 
-![Example](./example-company-deployments.jpg)
+image::./example-company-deployments.jpg[Book example]
