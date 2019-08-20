@@ -1,0 +1,23 @@
+{
+    "name": "book-reviews",
+    "version": "1.0.0",
+    "description": "Eric Swanson's Book Reviews",
+    "author": "Eric Swanson",
+    "license": "ISC",
+    "keywords": [
+        "book-reviews",
+        "books",
+        "reviews"
+    ],
+    "homepage": "https://github.com/ericis/book-reviews#readme",
+    "bugs": {
+        "url": "https://github.com/ericis/book-reviews/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ericis/book-reviews.git"
+    },
+    "scripts": {
+        "build": "node build.js"
+    }
+}
