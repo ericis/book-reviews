@@ -15,3 +15,5 @@ Alan discusses fundamental and seemingly obvious truths about communication. In 
 3. Respond by combining your perspective with theirs; especially useful in meetings
 
 This book offers broad help, but readers may find satisfaction with books that target more specific communication and collaboration challenges. For example, there are great books that can help you resolve professional and personal conflicts, how to facilitate engaging meetings, and effectively presenting your ideas and concerns to others.
+
+image::./example.jpg[Book example]
