@@ -36,7 +36,7 @@ allPaths.forEach((somePath) => {
 
         const formattedCommand = cmd + ' ' + argv.join(' ');
 
-        // execSync(formattedCommand, { stdio: 'inherit' });
+        execSync(formattedCommand, { stdio: 'inherit' });
     }
 });
 
